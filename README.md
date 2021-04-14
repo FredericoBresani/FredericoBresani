@@ -3,7 +3,7 @@
 - :books: I’m currently learning web development (full stack) ...
 - :robot: I’m willing to learn Artificial Intelligence ...
 - :robot: I’m also willing to study Machine Learning
-- 📫 How to reach me [Twitch channel](https://www.twitch.tv/fredcold)
+- :snowflake: How to reach me... [Twitch channel](https://www.twitch.tv/fredcold)
 
 <!---
 FredericoBresani/FredericoBresani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
