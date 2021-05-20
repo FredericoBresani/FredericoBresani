@@ -7,8 +7,7 @@
 - :robot: I'm also willing to study Machine Learning ...
 - :computer: I did develop [Grupo Ibidem site](https://grupoibidem.com/home-page/) ...
 - 🐟 I've worked with [fishtag](https://www.fishtag.co/) on there website for some months ...
-- :computer: 
-- :snowflake: How to reach me... [Twitch channel](https://www.twitch.tv/fredcold)
+- :snowflake: How to reach me... Email: fredericoibidem@gmail.com
 
 <!---
 FredericoBresani/FredericoBresani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
