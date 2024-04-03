@@ -14,9 +14,12 @@ You can click the Preview link to take a look at your changes.
 --->
 -----
 <div>
-  <img src="https://myreadme.vercel.app/api/embed/FredericoBresani?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FredericoBresani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
+  <img align=top src="https://myreadme.vercel.app/api/embed/FredericoBresani?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=FredericoBresani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
 </div>
-<a href="https://www.linkedin.com/in/fredericobs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://komarev.com/ghpvc/?username=FredericoBresani&color=brightgreen" alt="watching_count" />
+<div>
+  <a href="https://www.linkedin.com/in/fredericobs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=FredericoBresani&color=brightgreen" alt="watching_count" />
+</div>
+
 
