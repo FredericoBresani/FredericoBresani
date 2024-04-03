@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 -----
 <div>
   <img align=top src="https://myreadme.vercel.app/api/embed/FredericoBresani?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
-  &nbsp
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=FredericoBresani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
 </div>
 &nbsp
