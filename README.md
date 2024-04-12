@@ -4,13 +4,9 @@ I'm Full stack web developer who is passionate about computer graphics and study
 
 
 
-<div style="display: inline_block">
+<div>
       <img src="https://raw.githubusercontent.com/FredericoBresani/path-tracer/bidirectional-path-tracing/presets/edge-case-30-samples-caustics.png" width="180" heigth="180">
       <ul align="right">
-       <li>My linkedin at <a href="https://www.linkedin.com/in/fredericobs/" target="_blank">Frederico Bresani</a></li>
-       <li>Contact email fredbscontato@gmail.com</li>
-     </ul>
-     <ul>
        <li>My linkedin at <a href="https://www.linkedin.com/in/fredericobs/" target="_blank">Frederico Bresani</a></li>
        <li>Contact email fredbscontato@gmail.com</li>
      </ul>
