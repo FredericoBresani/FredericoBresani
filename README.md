@@ -6,7 +6,7 @@ I'm Full stack web developer who is passionate about computer graphics and study
 
 ## Reach me out
 &nbsp; - My linkedin at [Frederico Bresani](https://www.linkedin.com/in/fredericobs/);
-- Contact email fredbscontato@gmail.com.
+&nbsp; - Contact email fredbscontato@gmail.com.
       
 
 
