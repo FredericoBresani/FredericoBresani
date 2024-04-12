@@ -3,11 +3,10 @@ I'm Full stack web developer who is passionate about computer graphics and study
 
 <div>
   <img src="https://raw.githubusercontent.com/FredericoBresani/path-tracer/bidirectional-path-tracing/presets/edge-case-30-samples-caustics.png">
-    ![Image rendered with my path tracer]()
-    #### Find me on the web
-    - My linkedin at [Frederico Bresani](https://www.linkedin.com/in/fredericobs/);
-    - Contact email fredbscontato@gmail.com;
-  
+   <ul>
+     <li>My linkedin at <a href="https://www.linkedin.com/in/fredericobs/" target="_blank">Frederico Bresani</a></li>
+     <li>Contact email fredbscontato@gmail.com</li>
+   </ul>
 </div>
 
 
