@@ -7,7 +7,7 @@ I'm Full stack web developer who is passionate about computer graphics and study
      <li>My linkedin at <a href="https://www.linkedin.com/in/fredericobs/" target="_blank">Frederico Bresani</a></li>
      <li>Contact email fredbscontato@gmail.com</li>
    </ul>
-</div>
+<div>
 
 
 
