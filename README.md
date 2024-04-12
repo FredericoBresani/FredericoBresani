@@ -5,8 +5,8 @@ I'm Full stack web developer who is passionate about computer graphics and study
 <img src="https://raw.githubusercontent.com/FredericoBresani/path-tracer/bidirectional-path-tracing/presets/edge-case-30-samples-caustics.png" width="180" heigth="180" align="left" margin-right="50">
 
 ## Reach me out
-- My linkedin at [Frederico Bresani](https://www.linkedin.com/in/fredericobs/);
-- Contact email fredbscontato@gmail.com.
+: My linkedin at [Frederico Bresani](https://www.linkedin.com/in/fredericobs/);
+: Contact email fredbscontato@gmail.com.
 
 
       
